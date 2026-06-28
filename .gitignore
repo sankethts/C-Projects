@@ -1,4 +1,5 @@
 # Executables
+a.out
 *.exe
 *.out
 *.o
