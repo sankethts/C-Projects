@@ -1,0 +1,1 @@
+A collection of C programming projects developed as part of my learning, academic coursework, and problem-solving practice. This repository demonstrates concepts ranging from data structures and algorithms to system programming and file handling.
