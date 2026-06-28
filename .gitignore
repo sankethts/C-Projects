@@ -1,0 +1,19 @@
+# Executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# VS Code
+.vscode/
+
+# Build folders
+build/
+bin/
+
+# Temporary files
+*.log
